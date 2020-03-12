@@ -22,7 +22,6 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     height: 100vh;
-
 }
 
 /* Header */
@@ -35,8 +34,6 @@ header {
     margin: auto;
     padding: 50px 0;
     width: 90%;
-
-
 }
 
 #logo {
@@ -109,7 +106,7 @@ header {
 
 .button-wrapper {
 
-    width: 275px;
+    width: 200px;
     display: flex;
 }
 
@@ -122,6 +119,7 @@ header {
     font-family: "Poppins";
     font-size: 14px;
     color: hsl(257, 40%, 49%); 
+    background-color: white;
 
 }
 
@@ -271,7 +269,7 @@ header {
 
 .button-wrapper {
 
-    width: 275px;
+    width: 200px;
     display: flex;
 }
 
@@ -284,6 +282,7 @@ header {
     font-family: "Poppins";
     font-size: 14px;
     color: hsl(257, 40%, 49%); 
+    background-color: white;
 
 }
 
